@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fernandojal.une@gmail.com
+	name = Fernando Amundaray
